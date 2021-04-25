@@ -1,1 +1,0 @@
-I dont understand fully how this website works. It wouldn't let me upload the node_modules, I uploaded what I could. But if what I have isn't enough please email me and I will send over the zip because I did do the quiz.
